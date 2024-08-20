@@ -1,4 +1,4 @@
-# CSDL8023 Social Media Analytics Lab
+# CSDL8023_Social Media Analytics Lab
 
 ## Prerequisite: Types of Graphs, Data Mining, Data Analytics
 ## Lab Objectives:
